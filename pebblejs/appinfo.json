@@ -1,0 +1,67 @@
+{
+  "appKeys": {},
+  "capabilities": [
+    "configurable",
+    "location"
+  ],
+  "companyName": "Nimbus LLP",
+  "longName": "Pebble.js",
+  "resources": {
+    "media": [
+      {
+        "file": "images/menu_icon.png",
+        "menuIcon": true,
+        "name": "IMAGE_MENU_ICON",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/logo_splash.png",
+        "name": "IMAGE_LOGO_SPLASH",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/tile_splash.png",
+        "name": "IMAGE_TILE_SPLASH",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/parking_search_converted.png",
+        "name": "PEBL_LOGO",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/left_arrow_converted.png",
+        "name": "PEBL_LEFT",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/right_arrow_converted.png",
+        "name": "PEBL_RIGHT",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/upward_arrow_converted.png",
+        "name": "PEBL_STRAIGHT",
+        "type": "bitmap"
+      },
+      {
+        "file": "fonts/AppleGaramond-Light.ttf",
+        "name": "MONO_FONT_14",
+        "type": "font"
+      }
+    ]
+  },
+  "sdkVersion": "3",
+  "shortName": "Pebble.js",
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+    "chalk"
+  ],
+  "uuid": "3e14a17d-a115-4062-950c-8d942b19da2b",
+  "versionCode": 1,
+  "versionLabel": "0.4",
+  "watchapp": {
+    "watchface": false
+  }
+}
